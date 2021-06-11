@@ -1,0 +1,19 @@
+<?php
+/*
+|--------------------------------------------------------------------------
+| OWSA-INV V2
+|--------------------------------------------------------------------------
+| Author: Siamon Hasan
+| Project Name: OSWA-INV
+| Version: v2
+| Offcial page: http://oswapp.com/
+| facebook Page: https://www.facebook.com/oswapp
+|
+|
+|
+*/
+  define( 'DB_HOST', 'DB_HOST_VAR' );          // Set database host
+  define( 'DB_USER',  'DB_USER_VAR' );             // Set database user
+  define( 'DB_PASS', 'DB_PASS_VAR' );             // Set database password
+  define( 'DB_NAME', 'DB_NAME_VAR');        // Set database name
+?>
